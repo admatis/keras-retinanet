@@ -28,12 +28,12 @@ except ImportError:
     import xml.etree.ElementTree as ET
 
 voc_classes = {
-    '0'   : 0,
+    '0'     : 0,
     '1'     : 1,
-    '2'        : 2,
-    '3-4'        : 3,
-    '5-7'      : 4,
-    '8+'         : 5
+    '2'     : 2,
+    '3-4'   : 3,
+    '5-7'   : 4,
+    '8'     : 5
 }
 
 
